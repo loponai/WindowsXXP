@@ -70,7 +70,3 @@ The script asks before running:
 - Windows 10 / 11
 - Administrator privileges
 - PowerShell 5.1+
-
-## License
-
-MIT
